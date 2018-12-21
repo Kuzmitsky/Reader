@@ -167,6 +167,7 @@
 		45D984351C501B0300ADFD5E /* Reader-Print@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Print@3x.png"; path = "Graphics/Reader-Print@3x.png"; sourceTree = "<group>"; };
 		45D984361C501B0300ADFD5E /* Reader-Thumbs@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Thumbs@3x.png"; path = "Graphics/Reader-Thumbs@3x.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Reader-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Reader-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		9220E12021CCA02B00D5F588 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = "../../../Desktop/College Lasalle/1 sem/Mobile/ru.lproj/Localizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -415,6 +416,7 @@
 				de,
 				fr,
 				es,
+				ru,
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
@@ -509,6 +511,7 @@
 				458BF155143E077500CDF567 /* de */,
 				458F25911AC1D417000716F1 /* fr */,
 				458F25921AC1D425000716F1 /* es */,
+				9220E12021CCA02B00D5F588 /* ru */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
